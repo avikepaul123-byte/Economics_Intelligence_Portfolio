@@ -14,7 +14,7 @@ Visual Research &amp; Synthesis on Economics intelligence briefs, current affair
 * [Why the Middle East is Strategic for India](./geopolitics-supply-chains/Why_MiddleEast_soImportantfor_India.pdf)
 
 ### 3. Sustainable Transition
-* [The Economics of Climate Change: The Cost of Inaction](./Sustainable-Transition/Economics_of_Climate-Change.png)
+* [The Economics of Climate Change: The Cost of Inaction](./Sustainable-Transition/Economics_of_Climate_Change.png)
 * [Fuel for Cars or Food for Hens?](./Sustainable-Transition/Fuel_Demand_and_Egg_Inflation.png)
 
 ### 4. Fiscal & Demographic Trends
