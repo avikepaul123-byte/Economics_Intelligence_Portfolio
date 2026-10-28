@@ -1,6 +1,6 @@
 # Sustainable Transition
 
-This section houses research deliverables, analytical briefs, and data infographics focusing on the climate change economics and E20 petrol and egg price connection
+This section houses research deliverables, analytical briefs, and data infographics focusing on the climate change economics and E20 petrol, egg price connection
 
 ### Deliverables in this Section:
 * **The Economics of Climate Change: The Cost of Inaction**
