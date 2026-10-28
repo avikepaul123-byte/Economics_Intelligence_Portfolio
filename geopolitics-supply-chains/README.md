@@ -1,4 +1,4 @@
-# Consumer Credit & Banking
+# Geopolitics & Supply Chains
 
 This directory contains research deliverables, analytical briefs, and data infographics focusing on the global chip wars, the strategic importance of middle east for India
 
